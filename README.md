@@ -1,3 +1,5 @@
+<img src="profile/images/hero.svg" alt="NITO">
+
 # NITO
 
 ## GetStarted
